@@ -9,6 +9,9 @@ This approach provides a structured way to interpret how financial behavior tran
 
 Ultimately, the project aims to turn raw financial data into insight helping visualize how people borrow, repay, and manage credit risk across different levels of stability.
 
+**Data Source:** The dataset used in this project is available on [Kaggle](https://www.kaggle.com/code/shashankkumarranjan/credit-scoring-and-segmentation/input).
+
+
 ---
 
 ## Objectives
